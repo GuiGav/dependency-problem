@@ -9,4 +9,3 @@ func main() {
 	_, _ = pachdClient.NewFromAddress("")
 	_, _ = pach2.NewFromURI("")
 }
-git init
